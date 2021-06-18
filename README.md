@@ -13,6 +13,6 @@ expo start
 
 From the root folder.
 
-This is a WIP and open-source so feel free to copy, fork or modify in any way you want.
+This is a WIP and open-source project so feel free to copy, fork or modify in any way you want.
 
 ;-)
